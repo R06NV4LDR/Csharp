@@ -1,0 +1,6 @@
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\bin\Debug\TurnBased.exe
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\bin\Debug\TurnBased.pdb
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\obj\Debug\TurnBased.csproj.AssemblyReference.cache
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\obj\Debug\TurnBased.csproj.CoreCompileInputs.cache
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\obj\Debug\TurnBased.exe
+C:\Users\zbruhr\RiderProjects\TurnBased\TurnBased\obj\Debug\TurnBased.pdb

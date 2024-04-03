@@ -1,0 +1,6 @@
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.exe
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\bin\Debug\ShapeAreaCalculator.pdb
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.exe
+C:\Users\zbruhr\RiderProjects\ShapeAreaCalculator\ShapeAreaCalculator\obj\Debug\ShapeAreaCalculator.pdb
